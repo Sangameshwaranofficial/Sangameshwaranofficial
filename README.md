@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=sangameshwaranofficial&icon=5&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
 Hi, how are you?👋<br>😎I am Software Engineer with a passion for UI/UX and Science.<br>📬Shoot me an Email or add me on LinkedIn
 
@@ -13,4 +14,4 @@ Hi, how are you?👋<br>😎I am Software Engineer with a passion for UI/UX and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangameshwaranofficial&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sangameshwaranofficial&icon=5&color=12)](https://visitcount.itsvg.in)
+
