@@ -1,6 +1,7 @@
-# Hi, how are you?👋
-• 😎I am Software Engineer with a passion for UI/UX and Science.<br>
-• 📬Shoot me an Email or add me on LinkedIn 
+### Hi, how are you? 👋
+
+- 😎 I am Software Engineer with a passion for UI/UX and Science.
+- 📫 Shoot me an [Email](mailto:sangameshwaranofficial@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/sangameshwaran-a-7a2550248) :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realsangamesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangameshwaran-a-7a2550248) 
