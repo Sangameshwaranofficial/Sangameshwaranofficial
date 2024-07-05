@@ -22,7 +22,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsharepoint.svg" alt="sharepoint" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint-2019.svg" alt="sharepoint" width="40" height="40"/>
 </a>
 <a href="https://www.slideshare.net/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/slideshare.svg" alt="slideshare" width="40" height="40"/>
@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="mssql" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" alt="snowflake" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" alt="snowflake" width="40" height="40"/>
 </a>
 <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="40" height="40"/>
@@ -66,5 +66,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
 </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<a href="https://azure.microsoft.com/en-us/services/cosmos-db/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/azure-cosmos-db.svg" alt="cosmosdb" width="40" height="40"/>
+</a>
+</p>
