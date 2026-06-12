@@ -18,9 +18,6 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
 </a>
-<a href="https://www.slideshare.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/slideshare.svg" alt="slideshare" width="40" height="40"/>
-</a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
 </a>
